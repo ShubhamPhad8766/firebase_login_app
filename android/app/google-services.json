@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550750032355",
+    "project_id": "authapp-c776d",
+    "storage_bucket": "authapp-c776d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550750032355:android:a28eb62714d0420267d0d6",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeNMki4Wpa_e5L3CiASBgzTmLKaAdI94c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
